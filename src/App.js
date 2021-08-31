@@ -97,10 +97,52 @@ function App() {
               </p>
             </div>
           </div>
+          <div class="card">
+            <img src="assets/img/ddior.png"></img>
+            <div class="card-body">
+              <h5 class="card-title">{titleSepatu}</h5>
+              <p class="price">USD {harga}</p>
+              <p class="card-text">
+                This is a wider card with supporting text below as a natural
+                lead-in to additional content. This content is a little bit
+                longer.
+              </p>
+              <button class="btn btn-outline-primary mr-1 active keranjang" href="#">
+                Buy
+              </button>
+              <button class="btn btn-outline-primary" href="#">
+              <i class="fas fa-cart-plus"></i>
+              </button>
+              <p class="card-text">
+                <small class="text-muted">Last updated 3 mins ago</small>
+              </p>
+            </div>
+          </div>
         </div>
 
         <div class="card-group">
           <div class="card ">
+            <img src="assets/img/ddior.png"></img>
+            <div class="card-body">
+              <h5 class="card-title">{titleSepatu}</h5>
+              <p class="price">USD {harga}</p>
+              <p class="card-text">
+                This is a wider card with supporting text below as a natural
+                lead-in to additional content. This content is a little bit
+                longer.
+              </p>
+              <button class="btn btn-outline-primary mr-1 active keranjang" href="#">
+                Buy
+              </button>
+              <button class="btn btn-outline-primary" href="#">
+              <i class="fas fa-cart-plus"></i>
+              </button>
+              <p class="card-text">
+                <small class="text-muted">Last updated 3 mins ago</small>
+              </p>
+            </div>
+          </div>
+          <div class="card">
             <img src="assets/img/ddior.png"></img>
             <div class="card-body">
               <h5 class="card-title">{titleSepatu}</h5>
